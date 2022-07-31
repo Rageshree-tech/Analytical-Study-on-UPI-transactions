@@ -1,6 +1,6 @@
 # Analytical-Study-on-UPI-transactions
 
-##Introduction:
+## Introduction:
    
 Gradual modernization of civilization has probably reached its zenith with the digitalization. One of the beautiful applications which this digitalization has provided to modern society is considered as UPI. Unified Payments Interface(UPI), an instant real-time payment application allowing several bank accounts to link with a single application. It has proved to be an effective way to enable the cashless transaction within minutes without the usage of cards directly from the bank, using smartphones only. Thus, it acts as a very good alternative for everyone to roam seamlessly without having a headache to bring cash everytime and hence reducing the time for both customer and seller while exchanging the balance.
 UPI is a part of  the green initiative which was launched officially in 2016 for public use in order to reduce the usage of paper in domestic payment market. Several banks and applications tried to adapt and develop the strategy. The graph below shows the diagrammatic representation of the number of banks adapting the interface with time. 
