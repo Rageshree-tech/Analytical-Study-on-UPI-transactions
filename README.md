@@ -6,7 +6,9 @@ Gradual modernization of civilization has probably reached its zenith with the d
 UPI is a part of  the green initiative which was launched officially in 2016 for public use in order to reduce the usage of paper in domestic payment market. Several banks and applications tried to adapt and develop the strategy. The graph below shows the diagrammatic representation of the number of banks adapting the interface with time. 
 ![Banks active in UPI cropped](https://user-images.githubusercontent.com/56685268/180615751-b3c4519c-8c75-4ac6-9472-1fd56e1f2bf9.png)
 
+From the graph we can came to know that Banks live in UPI is highest in 2021. There is a sharp decrease in the number of banks which are live in UPI in case of 2022.
 
+## Analysis of UPI Bank data for the Year 2021:
 
 ![Payment app used by customers throught the year](https://user-images.githubusercontent.com/56685268/180615804-46e67038-b4b7-4367-a03b-1fa4d837abc0.png)
 
