@@ -18,6 +18,8 @@ The visualization for the data of 2021 are as:
 
 ![2021_Values](https://user-images.githubusercontent.com/56685268/182169092-016d07e7-59c8-4fb1-97e7-2beef374240b.png)
 ![2021_Volume](https://user-images.githubusercontent.com/56685268/182169130-66f11810-13e9-4dd8-b84e-41eb392fcf88.png)
+![p3_d21](https://user-images.githubusercontent.com/56685268/182179939-d3466419-45b6-492c-9429-1673aa3d1633.jpg)
+![p2_d21](https://user-images.githubusercontent.com/56685268/182180017-136d7025-f234-46af-9630-427babcc596c.jpg)
 
 
 ## Analysis of UPI Bank data for the year 2022:
